@@ -183,15 +183,19 @@ const sradhanjali = {
 
 ## 💼 Professional Experience
 
-### 🏢 Frontend Developer Intern — Gwing Software Pvt. Ltd. &nbsp; 
-**📍 Bangalore, India &nbsp;|&nbsp; 📅 May 2025 – June 2025 &nbsp;|&nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://swad-e-dil.vercel.app/)**
+### 🤖 AI Intern — Jyesta Corporate
+**📅 June 2025 – July 2025**
 
-| 🎯 Achievement | 📊 Impact |
-|---|---|
-| Website Performance Optimization | **40% faster load time** |
-| AI-based Recommendations & Dynamic Search | **30% increase in user engagement** |
-| Interactive UI & Client-side Validation | **25% boost in conversion rates** |
-| Modular Code & Efficient Rendering | **20% reduction in cart abandonment** |
+- Explored AI and Generative AI concepts, prompt engineering, and practical automation applications.
+- Assisted in developing AI-based solutions and intelligent workflows for business-oriented problems.
+
+### 📊 Data Science Intern — Unified Mentor
+**📅 December 2024 – January 2025**
+
+- Performed data cleaning, preprocessing, Exploratory Data Analysis (EDA), and visualization using Python, Pandas, NumPy, Matplotlib, and Seaborn.
+- Identified patterns, trends, and actionable business insights from structured datasets.
+- Developed analytical workflows and prepared data-driven reports.
+
 
  ## 🚀 Featured Projects
 

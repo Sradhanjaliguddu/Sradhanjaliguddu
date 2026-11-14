@@ -20,9 +20,6 @@
 ---
 
 ## 👨‍🎓 About Me
-### 💻 Full Stack Developer
-
-
 ### 📊 Data Science Candidate
 
 ```diff
@@ -34,24 +31,28 @@
 + ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝ ╚═════╝╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
 ```
 
-```javascript
-const anshuman = {
-  role: "Software Engineer",
-  location: "Brahmapur, Odisha 🇮🇳",
-  focus: "Building scalable, secure, and high-performance software solutions",
-  languages: ["Java", "JavaScript (ES6+)", "SQL", "HTML5", "CSS3", "TypeScript"],
-  backend: ["Spring Boot", "Spring MVC", "Spring Security", "Node.js", "Express.js"],
-  frontend: ["React.js", "Three.js", "Bootstrap 5", "Tailwind CSS"],
-  databases: ["MySQL", "PostgreSQL", "MongoDB"],
-  cloudDevOps: ["AWS", "Docker", "Jenkins"],
-  deployment: ["Git", "GitHub", "Vercel", "Netlify"],
-  tools: ["VS Code", "Cursor AI", "Postman", "Claude AI", "Google AI Studio"],
-  currentlyLearning: ["Microservices", "System Design", "AWS Services", "CI/CD"],
-  collaborateOn: ["Open Source", "Full Stack Applications", "Java Projects"],
-  askMeAbout: ["Java", "Spring Boot", "React", "REST APIs", "SQL", "Git"],
-  funFact: "I enjoy solving complex problems and turning ideas into production-ready applications.",
+
+const sradhanjali = {
+  name: "Sradhanjali Pani",
+  role: "Aspiring Data Analyst | Data Science Candidate",
+  location: "Bhubaneswar, Odisha 🇮🇳",
+
+  focus: "Transforming raw data into meaningful insights through data analysis, visualization, and intelligent solutions",
+
+  programming: ["Python", "SQL"],
+  database: ["MySQL", "Relational Database Design"],
+  dataAnalysis: ["Pandas", "NumPy", "Data Cleaning", "Exploratory Data Analysis (EDA)", "Data Preprocessing", "Feature Engineering", "Statistical Analysis"],
+  visualizationAndBI: ["Power BI", "Tableau", "Matplotlib", "Seaborn", "DAX", "Power Query", "Data Modeling"],
+  advancedExcel: [ "VLOOKUP", "IF", "SUMIF", "Pivot Tables", "Dynamic Charts"],
+  aiAndAutomation: ["Artificial Intelligence", "Generative AI", "Prompt Engineering", "AI Tools"],
+  developmentTools: ["GitHub", "Jupyter Notebook", "MySQL Connector", "Git", "Microsoft Office", "Copilot AI"],
+  softSkills: ["Problem Solving", "Team Collaboration", "Analytical Thinking", "Adaptability","Time Management"],
+  currentlyLearning: ["Advanced Data Analytics", "Machine Learning","Data Science"],
+  collaborateOn: ["Data Analytics Projects", "Data Visualization", "Python Projects", "SQL Projects"],
+  askMeAbout: ["Python", "SQL", "Power BI", "Tableau", "Excel", "Data Analysis","Data Visualization"],
+  funFact: "I enjoy exploring data, discovering hidden patterns, and transforming complex information into actionable insights."
 };
-```
+
 
 
 ## 🎓 Education

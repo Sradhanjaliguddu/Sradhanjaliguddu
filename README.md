@@ -129,7 +129,7 @@ const sradhanjali = {
     <strong>Visualization / BI</strong>
   </td>
   <td>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="25" alt="Power BI"/>
+    <img src="https://img.icons8.com/color/48/power-bi.png" width="25" height="25" alt="Power BI"/>
     <b> Power BI</b> &nbsp; • &nbsp; Tableau &nbsp; • &nbsp; Matplotlib &nbsp; • &nbsp; Seaborn &nbsp; • &nbsp; DAX &nbsp; • &nbsp; Power Query &nbsp; • &nbsp; Data Modeling
   </td>
 </tr>

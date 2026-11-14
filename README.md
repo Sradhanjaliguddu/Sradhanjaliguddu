@@ -74,300 +74,108 @@ const sradhanjali = {
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sradhanjaliguddu601@gmail.com)
 
 
-# 💻 Tech Stack:
+
+# 💻 Tech Stack
+
 <h2 align="center">
-  <img src="https://api.iconify.design/fa6-solid/toolbox.svg?color=%2339D353" width="24" alt="" />
+  <img src="https://api.iconify.design/fa6-solid/chart-line.svg?color=%2339D353" width="24" alt="" />
   &nbsp;Technical Expertise
 </h2>
 
-<table width="100%" border="1" cellpadding="0" cellspacing="0">
+<table width="100%" border="1" cellpadding="10" cellspacing="0">
 
-<!-- IDE & AI TOOLS -->
+<!-- PROGRAMMING -->
 <tr>
-  <td width="20%" align="center" valign="middle">
-    <img src="https://api.iconify.design/fa6-solid/laptop-code.svg?color=%2339D353" width="20" alt="" /><br/>
-    <strong>IDE & AI Tools</strong>
+  <td width="25%" align="center">
+    <img src="https://api.iconify.design/fa6-solid/code.svg?color=%2358A6FF" width="22" alt="" /><br/>
+    <strong>Programming</strong>
   </td>
-
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="31" alt="VS Code"/><br/>
-    <sub><b>VS Code</b></sub>
-  </td>
-
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="31" alt="IntelliJ IDEA"/><br/>
-    <sub><b>IntelliJ IDEA</b></sub>
-  </td>
-
-  <td align="center">
-    <img src="https://api.iconify.design/fa6-solid/wand-magic-sparkles.svg?color=%234285F4" width="31" alt="Google Antigravity"/><br/>
-    <sub><b>Google Antigravity</b></sub>
-  </td>
-
-  <td align="center">
-    <img src="https://api.iconify.design/simple-icons/cursor.svg?color=%23C9D1D9" width="31" alt="Cursor AI"/><br/>
-    <sub><b>Cursor AI</b></sub>
-  </td>
-
-  <td></td>
-  <td></td>
-</tr>
-
-
-<!-- LANGUAGES -->
-<tr>
-  <td width="20%" align="center" valign="middle">
-    <img src="https://api.iconify.design/fa6-solid/code.svg?color=%2358A6FF" width="20" alt="" /><br/>
-    <strong>Languages</strong>
-  </td>
-
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="31" alt="Java"/><br/>
-    <sub><b>Java</b></sub>
-  </td>
-
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="31" alt="JavaScript"/><br/>
-    <sub><b>JavaScript</b></sub>
-  </td>
-
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="31" alt="TypeScript"/><br/>
-    <sub><b>TypeScript</b></sub>
-  </td>
-
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="31" alt="HTML5"/><br/>
-    <sub><b>HTML5</b></sub>
-  </td>
-
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="31" alt="CSS3"/><br/>
-    <sub><b>CSS3</b></sub>
-  </td>
-
-  <td align="center">
-    <img src="https://api.iconify.design/simple-icons/mysql.svg?color=%234479A1" width="31" alt="SQL"/><br/>
-    <sub><b>SQL</b></sub>
+  <td>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25" alt="Python"/>
+    <b> Python</b> &nbsp; • &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="25" alt="SQL"/>
+    <b> SQL</b>
   </td>
 </tr>
 
-
-<!-- CORE CONCEPTS -->
+<!-- DATABASE -->
 <tr>
-  <td width="20%" align="center" valign="middle">
-    <img src="https://api.iconify.design/fa6-solid/brain.svg?color=%2339D353" width="20" alt="" /><br/>
-    <strong>Core Concepts</strong>
-  </td>
-
   <td align="center">
-    <img src="https://api.iconify.design/fa6-solid/cubes.svg?color=%2358A6FF" width="31" alt="OOP"/><br/>
-    <sub><b>OOP (Java)</b></sub>
+    <img src="https://api.iconify.design/fa6-solid/database.svg?color=%2339D353" width="22" alt="" /><br/>
+    <strong>Database</strong>
   </td>
-
-  <td align="center">
-    <img src="https://api.iconify.design/fa6-solid/code-branch.svg?color=%23F0F6FC" width="31" alt="DSA"/><br/>
-    <sub><b>DSA</b></sub>
+  <td>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="25" alt="MySQL"/>
+    <b> MySQL</b> &nbsp; • &nbsp; Relational Database Design
   </td>
-
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
 </tr>
 
-
-<!-- BACKEND -->
+<!-- DATA ANALYSIS -->
 <tr>
-  <td width="20%" align="center" valign="middle">
-    <img src="https://api.iconify.design/fa6-solid/server.svg?color=%2358A6FF" width="20" alt="" /><br/>
-    <strong>Backend</strong>
-  </td>
-
   <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="31" alt="Spring Boot"/><br/>
-    <sub><b>Spring Boot</b></sub>
+    <img src="https://api.iconify.design/fa6-solid/magnifying-glass-chart.svg?color=%2358A6FF" width="22" alt="" /><br/>
+    <strong>Data Analysis</strong>
   </td>
-
-  <td align="center">
-    <img src="https://api.iconify.design/simple-icons/spring.svg?color=%236DB33F" width="31" alt="Spring MVC"/><br/>
-    <sub><b>Spring MVC</b></sub>
+  <td>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="25" alt="Pandas"/>
+    <b> Pandas</b> &nbsp; • &nbsp; NumPy &nbsp; • &nbsp; Data Cleaning &nbsp; • &nbsp; EDA &nbsp; • &nbsp; Data Preprocessing &nbsp; • &nbsp; Feature Engineering &nbsp; • &nbsp; Statistical Analysis
   </td>
-
-  <td align="center">
-    <img src="https://api.iconify.design/simple-icons/springsecurity.svg?color=%236DB33F" width="31" alt="Spring Security"/><br/>
-    <sub><b>Spring Security</b></sub>
-  </td>
-
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="31" alt="Node.js"/><br/>
-    <sub><b>Node.js</b></sub>
-  </td>
-
-  <td align="center">
-    <img src="https://api.iconify.design/simple-icons/express.svg?color=%23F0F6FC" width="31" alt="Express.js"/><br/>
-    <sub><b>Express.js</b></sub>
-  </td>
-
-  <td></td>
 </tr>
 
-
-<!-- FRONTEND -->
+<!-- VISUALIZATION -->
 <tr>
-  <td width="20%" align="center" valign="middle">
-    <img src="https://api.iconify.design/fa6-solid/display.svg?color=%2339D353" width="20" alt="" /><br/>
-    <strong>Frontend</strong>
-  </td>
-
   <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="31" alt="React.js"/><br/>
-    <sub><b>React.js</b></sub>
+    <img src="https://api.iconify.design/fa6-solid/chart-pie.svg?color=%2339D353" width="22" alt="" /><br/>
+    <strong>Visualization / BI</strong>
   </td>
-
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="31" alt="Three.js"/><br/>
-    <sub><b>Three.js</b></sub>
+  <td>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" width="25" alt="Power BI"/>
+    <b> Power BI</b> &nbsp; • &nbsp; Tableau &nbsp; • &nbsp; Matplotlib &nbsp; • &nbsp; Seaborn &nbsp; • &nbsp; DAX &nbsp; • &nbsp; Power Query &nbsp; • &nbsp; Data Modeling
   </td>
-
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="31" alt="Bootstrap 5"/><br/>
-    <sub><b>Bootstrap 5</b></sub>
-  </td>
-
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="31" alt="Tailwind CSS"/><br/>
-    <sub><b>Tailwind CSS</b></sub>
-  </td>
-
-  <td></td>
-  <td></td>
 </tr>
 
-
-<!-- DATABASES -->
+<!-- EXCEL -->
 <tr>
-  <td width="20%" align="center" valign="middle">
-    <img src="https://api.iconify.design/fa6-solid/database.svg?color=%2339D353" width="20" alt="" /><br/>
-    <strong>Databases</strong>
-  </td>
-
   <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="31" alt="MySQL"/><br/>
-    <sub><b>MySQL</b></sub>
+    <img src="https://api.iconify.design/fa6-solid/file-excel.svg?color=%23217346" width="22" alt="" /><br/>
+    <strong>Advanced Excel</strong>
   </td>
-
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="31" alt="PostgreSQL"/><br/>
-    <sub><b>PostgreSQL</b></sub>
+  <td>
+    <b>VLOOKUP</b> &nbsp; • &nbsp; IF &nbsp; • &nbsp; SUMIF &nbsp; • &nbsp; Pivot Tables &nbsp; • &nbsp; Dynamic Charts
   </td>
-
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="31" alt="MongoDB"/><br/>
-    <sub><b>MongoDB</b></sub>
-  </td>
-
-  <td></td>
-  <td></td>
-  <td></td>
 </tr>
 
-
-<!-- CLOUD & DEVOPS -->
+<!-- AI AND AUTOMATION -->
 <tr>
-  <td width="20%" align="center" valign="middle">
-    <img src="https://api.iconify.design/fa6-solid/cloud.svg?color=%2358A6FF" width="20" alt="" /><br/>
-    <strong>Cloud & DevOps</strong>
-  </td>
-
   <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="38" alt="AWS"/><br/>
-    <sub><b>AWS</b></sub>
+    <img src="https://api.iconify.design/fa6-solid/brain.svg?color=%238E75B2" width="22" alt="" /><br/>
+    <strong>AI / Automation</strong>
   </td>
-
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="31" alt="Docker"/><br/>
-    <sub><b>Docker</b></sub>
+  <td>
+    Artificial Intelligence &nbsp; • &nbsp; Generative AI &nbsp; • &nbsp; Prompt Engineering &nbsp; • &nbsp; AI Tools
   </td>
-
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="31" alt="Jenkins"/><br/>
-    <sub><b>Jenkins</b></sub>
-  </td>
-
-  <td></td>
-  <td></td>
-  <td></td>
 </tr>
 
-
-<!-- DEPLOYMENT -->
+<!-- DEVELOPMENT TOOLS -->
 <tr>
-  <td width="20%" align="center" valign="middle">
-    <img src="https://api.iconify.design/fa6-solid/rocket.svg?color=%2339D353" width="20" alt="" /><br/>
-    <strong>Deployment</strong>
-  </td>
-
   <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="31" alt="Git"/><br/>
-    <sub><b>Git</b></sub>
+    <img src="https://api.iconify.design/fa6-solid/screwdriver-wrench.svg?color=%2358A6FF" width="22" alt="" /><br/>
+    <strong>Development Tools</strong>
   </td>
-
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="31" alt="GitHub"/><br/>
-    <sub><b>GitHub</b></sub>
+  <td>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="25" alt="GitHub"/>
+    <b> GitHub</b> &nbsp; • &nbsp; Jupyter Notebook &nbsp; • &nbsp; MySQL Connector &nbsp; • &nbsp; Git &nbsp; • &nbsp; Microsoft Office &nbsp; • &nbsp; Copilot AI
   </td>
-
-  <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="31" alt="Vercel"/><br/>
-    <sub><b>Vercel</b></sub>
-  </td>
-
-  <td align="center">
-    <img src="https://api.iconify.design/simple-icons/netlify.svg?color=%2300C7B7" width="31" alt="Netlify"/><br/>
-    <sub><b>Netlify</b></sub>
-  </td>
-
-  <td></td>
-  <td></td>
 </tr>
 
-
-<!-- AI TOOLS -->
+<!-- SOFT SKILLS -->
 <tr>
-  <td width="20%" align="center" valign="middle">
-    <img src="https://api.iconify.design/fa6-solid/robot.svg?color=%2339D353" width="20" alt="" /><br/>
-    <strong>AI Tools</strong>
-  </td>
-
   <td align="center">
-    <img src="https://api.iconify.design/simple-icons/openai.svg?color=%2374AA9C" width="31" alt="OpenAI"/><br/>
-    <sub><b>OpenAI</b></sub>
+    <img src="https://api.iconify.design/fa6-solid/people-group.svg?color=%23E3B341" width="22" alt="" /><br/>
+    <strong>Soft Skills</strong>
   </td>
-
-  <td align="center">
-    <img src="https://api.iconify.design/simple-icons/googlegemini.svg?color=%238E75B2" width="31" alt="Gemini"/><br/>
-    <sub><b>Gemini</b></sub>
-  </td>
-
-  <td align="center">
-    <img src="https://api.iconify.design/simple-icons/anthropic.svg?color=%23D97757" width="31" alt="Claude"/><br/>
-    <sub><b>Claude</b></sub>
-  </td>
-
-  <td align="center">
-    <img src="https://api.iconify.design/simple-icons/ollama.svg?color=%23C9D1D9" width="31" alt="Ollama"/><br/>
-    <sub><b>Ollama</b></sub>
-  </td>
-
-  <td align="center">
-    <img src="https://api.iconify.design/simple-icons/openai.svg?color=%2374AA9C" width="31" alt="Codex"/><br/>
-    <sub><b>Codex</b></sub>
-  </td>
-
-  <td align="center">
-    <img src="https://api.iconify.design/fa6-solid/robot.svg?color=%2339D353" width="31" alt="OpenClaw"/><br/>
-    <sub><b>OpenClaw</b></sub>
+  <td>
+    Problem Solving &nbsp; • &nbsp; Team Collaboration &nbsp; • &nbsp; Analytical Thinking &nbsp; • &nbsp; Adaptability &nbsp; • &nbsp; Time Management
   </td>
 </tr>
 

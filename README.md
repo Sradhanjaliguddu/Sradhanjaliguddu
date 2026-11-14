@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hello!+I'm+Sradhanjali+Pani;Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Python;SAP+ABAP+Developer;National+Level+Athlete&center=true&width=700&height=80&color=00FF9C&size=25" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?lines=Hello!+I'm+Sradhanjali+Pani;Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Python;SAP+ABAP+Developer;" alt="Typing SVG"/>
 </h1>
 
 

@@ -32,26 +32,31 @@
 ```
 
 
+
+### 💻 Data Science Candidate
+
+```javascript
 const sradhanjali = {
   name: "Sradhanjali Pani",
   role: "Aspiring Data Analyst | Data Science Candidate",
   location: "Bhubaneswar, Odisha 🇮🇳",
-
   focus: "Transforming raw data into meaningful insights through data analysis, visualization, and intelligent solutions",
 
   programming: ["Python", "SQL"],
   database: ["MySQL", "Relational Database Design"],
-  dataAnalysis: ["Pandas", "NumPy", "Data Cleaning", "Exploratory Data Analysis (EDA)", "Data Preprocessing", "Feature Engineering", "Statistical Analysis"],
+  dataAnalysis: ["Pandas", "NumPy", "Data Cleaning", "EDA", "Data Preprocessing", "Feature Engineering", "Statistical Analysis"],
   visualizationAndBI: ["Power BI", "Tableau", "Matplotlib", "Seaborn", "DAX", "Power Query", "Data Modeling"],
-  advancedExcel: [ "VLOOKUP", "IF", "SUMIF", "Pivot Tables", "Dynamic Charts"],
+  advancedExcel: ["VLOOKUP", "IF", "SUMIF", "Pivot Tables", "Dynamic Charts"],
   aiAndAutomation: ["Artificial Intelligence", "Generative AI", "Prompt Engineering", "AI Tools"],
   developmentTools: ["GitHub", "Jupyter Notebook", "MySQL Connector", "Git", "Microsoft Office", "Copilot AI"],
-  softSkills: ["Problem Solving", "Team Collaboration", "Analytical Thinking", "Adaptability","Time Management"],
-  currentlyLearning: ["Advanced Data Analytics", "Machine Learning","Data Science"],
+  softSkills: ["Problem Solving", "Team Collaboration", "Analytical Thinking", "Adaptability", "Time Management"],
+
+  currentlyLearning: ["Advanced Data Analytics", "Machine Learning", "Data Science"],
   collaborateOn: ["Data Analytics Projects", "Data Visualization", "Python Projects", "SQL Projects"],
-  askMeAbout: ["Python", "SQL", "Power BI", "Tableau", "Excel", "Data Analysis","Data Visualization"],
+  askMeAbout: ["Python", "SQL", "Power BI", "Tableau", "Excel", "Data Analysis", "Data Visualization"],
   funFact: "I enjoy exploring data, discovering hidden patterns, and transforming complex information into actionable insights."
 };
+```
 
 
 

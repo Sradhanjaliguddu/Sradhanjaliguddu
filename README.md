@@ -242,7 +242,8 @@ For any queries, feedback, or collaboration:
 [![GitHub](https://img.shields.io/badge/GitHub-Sradhanjaliguddu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sradhanjaliguddu) <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sradhanjali_Pani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sradhanjali-pani-2a8793301) <br>
 [![Location](https://img.shields.io/badge/Location-Bhubaneswar,_Odisha,_India-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white)](#) <br>
-## 💡 Dev Quote of the Day
+
+## 💡 Data Insight of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -250,8 +251,11 @@ For any queries, feedback, or collaboration:
 
 <div align="center">
 
-### *"Results-driven developer. Published researcher. Building the web, one component at a time. National athlete."*
+### *"Turning raw data into meaningful insights, transforming insights into smarter decisions, and using technology to solve real-world problems."*
+
 <br/>
-⭐ If you find my work useful, drop a star it means the world! ⭐
+
+⭐ If you find my work useful, don't forget to drop a star! It means a lot. ⭐
+
 <br/>
 </div>

@@ -199,29 +199,29 @@ const sradhanjali = {
 
  ## 🚀 Featured Projects
 
-### 🤖 AI-based Tic-Tac-Toe Game &nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://ai-enhanced-tic-tac-toe-game.vercel.app/)
-> *Jan 2026 – Feb 2026 &nbsp;|&nbsp; ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) MINMAX Algorithm*
+### 🏡 Gurgaon Real Estate Data Analysis
+> *Oct 2026 – Present &nbsp;|&nbsp; ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/seaborn-%231A5276.svg?style=for-the-badge&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23115A8A.svg?style=for-the-badge&logo=python&logoColor=white)*
 
- 🧠 Built an **AI-powered game** using the **Minimax Algorithm** for unbeatable optimal move selection. <br>
- ⚡ Implemented **dynamic UI updates**, real-time game state management & win/draw detection logic. <br>
- 🎮 Delivered an engaging, seamless gameplay experience with intelligent AI decision-making.
+- 🧹 Developed an end-to-end EDA workflow involving data cleaning, feature engineering, and statistical analysis.
+- 🏘️ Analyzed property prices, localities, BHK configurations, RERA status, and builder tiers to identify valuation trends.
 
+### 📊 Flipkart Sales Analysis Dashboard
+> *Sep 2026 – Oct 2026 &nbsp;|&nbsp; ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-4472C4?style=for-the-badge&logo=microsoft&logoColor=white)*
 
-### 🎓 FINITECH - AI Powered IT Training & Career Launch Platform &nbsp; [![Live](https://img.shields.io/badge/🔗_Live_Demo-00C7B7?style=flat-square)](https://finitech-ed-tech.vercel.app/)
-> *Nov 2025 – Dec 2025 &nbsp;|&nbsp; ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)*
+- 📈 Built an interactive dashboard to analyze revenue, sales volume, profit margins, customer segments, and regional KPIs.
+- ⚙️ Applied Power Query transformations and custom DAX measures for business intelligence reporting.
 
- 🚀 Built a fully responsive EdTech platform for Finitech Institute serving 500+ users with real-time result computation & instant scoring. <br>
- 📊 Engineered a quiz engine with timer-based assessments, dynamic DOM manipulation & a performance dashboard that boosted engagement by 30%. <br>
- ✅ Implemented client-side validation, seamless score tracking & optimized UI/UX across all devices for a production-grade experience. <br>
+### 🗄️ Customer Order Management Control System
+> *Oct 2026 – Nov 2026 &nbsp;|&nbsp; ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)*
 
+- 🔗 Designed normalized relational tables for Salespeople, Customers, and Orders using primary and foreign key constraints.
+- 💻 Developed Python scripts for transaction logic, incentive updates, and city-based filtering using MySQL.
 
-### 🎓 Centralized Alumni Engagement & Networking Portal *(Final Year Project)*
-> *B.Tech Final Year Project — NIST University 🟢 In Progress...*  
+### 💼 Employee Payroll Management System
+> *Jul 2026 – Aug 2026 &nbsp;|&nbsp; ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)*
 
- 🌐 Web platform for **alumni communication, networking & event management**.<br>
- 🏫 Serving **1,000+ users** at **NIST University**.<br>
- 🔗 Features: Alumni directory, Event Scheduling, Networking hub & Communication tools.
-
+- 🧮 Automated salary, allowances, tax deductions, and net pay calculations using VLOOKUP, IF, and SUMIF.
+- 📊 Used Pivot Tables and structured reporting to improve payroll analysis.
 ## 🏆 Certifications & Achievements
 
 | 🏅 | Title | Issuer | Year |

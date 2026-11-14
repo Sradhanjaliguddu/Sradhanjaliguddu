@@ -42,7 +42,7 @@ const sradhanjali = {
   location: "Bhubaneswar, Odisha 🇮🇳",
   focus: "Transforming raw data into meaningful insights through data analysis, visualization, and intelligent solutions",
 
-  programming: ["Python", "SQL"],
+  programming: ["Python", "SQL", "JavaScript"],
   database: ["MySQL", "Relational Database Design"],
   dataAnalysis: ["Pandas", "NumPy", "Data Cleaning", "EDA", "Data Preprocessing", "Feature Engineering", "Statistical Analysis"],
   visualizationAndBI: ["Power BI", "Tableau", "Matplotlib", "Seaborn", "DAX", "Power Query", "Data Modeling"],

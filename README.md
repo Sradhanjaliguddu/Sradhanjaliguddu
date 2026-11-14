@@ -60,13 +60,13 @@ const sradhanjali = {
 
 
 
+
 ## 🎓 Education
 
-🏫  NIST University, Brahmapur, Odisha <br>
-🎓  B.Tech — Computer Science & Engineering <br>
-📅  2022 – 2026 <br>
-📊  CGPA: 6.89 / 10.0 <br>
-🚀  Final Year Project: Centralized Alumni Engagement & Networking Portal (1,000+ users) <br>
+🏫 GITA Autonomous College, Bhubaneswar, Odisha <br>
+🎓 B.Tech — Computer Science & Engineering (IoT) <br>
+📅 2023 – 2026 <br>
+📊 CGPA: 7.68 / 10.0 <br>
 
 
 ## 🌐 Connect With Me:

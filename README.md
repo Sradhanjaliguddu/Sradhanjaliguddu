@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hello!+I'm+Sradhanjali+Pani;Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Python;SAP+ABAP+Developer;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&height=100&lines=Hi+there!+I'm+Sradhanjali+Pani;Aspiring+Data+Analyst;Data+Science+Enthusiast;Power+BI+%7C+Excel+%7C+Tableau;SQL+%7C+Python+%7C+Data+Visualization;SAP+ABAP+Developer" alt="Typing SVG" />
 </h1>
-
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=5000&color=00BFFF&center=true&vCenter=true&width=750&lines=%E2%9C%A8+Turning+complex+UI%2FUX+into+production-ready%2C+high-performance+web+experiences+%E2%9C%A8" alt="Subtitle" />
